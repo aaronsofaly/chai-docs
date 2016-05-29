@@ -1,0 +1,240 @@
+{
+  "Cheerio": [
+    "Cheerio"
+  ],
+  "Firebase": [
+    "Firebase"
+  ],
+  "Fireproof": [
+    "Fireproof"
+  ],
+  "arithmetic": [
+    "arithmetic"
+  ],
+  "Array": [
+    "array"
+  ],
+  "XML": [
+    "assertXml",
+    "xml"
+  ],
+  "async": [
+    "async"
+  ],
+  "Backbone": [
+    "backbone"
+  ],
+  "bignumber": [
+    "bignumber"
+  ],
+  "bookshelf": [
+    "bookshelf"
+  ],
+  "chaiplugin": [
+    "chaiplugin"
+  ],
+  "changes": [
+    "changes"
+  ],
+  "codemod": [
+    "codemod"
+  ],
+  "Colors": [
+    "color",
+    "colors"
+  ],
+  "containSubset": [
+    "containSubset"
+  ],
+  "contains": [
+    "contains"
+  ],
+  "counting": [
+    "counting"
+  ],
+  "date": [
+    "date"
+  ],
+  "decimal": [
+    "decimal"
+  ],
+  "deep": [
+    "deep"
+  ],
+  "deep-eql": [
+    "deep-eql"
+  ],
+  "dom": [
+    "dom"
+  ],
+  "equality": [
+    "equality"
+  ],
+  "es6": [
+    "es6"
+  ],
+  "eventemitter": [
+    "eventemitter"
+  ],
+  "exec": [
+    "exec"
+  ],
+  "executeScript": [
+    "executeScript"
+  ],
+  "expect": [
+    "expect"
+  ],
+  "factory": [
+    "factory"
+  ],
+  "filesystem": [
+    "file",
+    "filesystem",
+    "path"
+  ],
+  "float": [
+    "float"
+  ],
+  "fs": [
+    "fs"
+  ],
+  "fuzzy": [
+    "fuzzy"
+  ],
+  "generator": [
+    "generator"
+  ],
+  "guard": [
+    "guard"
+  ],
+  "http": [
+    "http"
+  ],
+  "immutable": [
+    "immutable"
+  ],
+  "integration": [
+    "integration"
+  ],
+  "isMatch": [
+    "isMatch"
+  ],
+  "jQuery": [
+    "jQuery",
+    "jquery"
+  ],
+  "js-factories": [
+    "js-factories"
+  ],
+  "js-signals": [
+    "js-signals"
+  ],
+  "jscodeshift": [
+    "jscodeshift"
+  ],
+  "JSON": [
+    "json"
+  ],
+  "JSON Schema": [
+    "json-schema"
+  ],
+  "like": [
+    "like"
+  ],
+  "match": [
+    "match"
+  ],
+  "Math": [
+    "math"
+  ],
+  "MongoDB": [
+    "mongo",
+    "mongodb"
+  ],
+  "numbers": [
+    "numbers"
+  ],
+  "object-constructors": [
+    "object-constructors"
+  ],
+  "objectid": [
+    "objectid"
+  ],
+  "objects": [
+    "objects"
+  ],
+  "optimisation": [
+    "optimisation"
+  ],
+  "parameter": [
+    "parameter"
+  ],
+  "parameter check": [
+    "parameter check"
+  ],
+  "precision": [
+    "precision"
+  ],
+  "Promises": [
+    "promises",
+    "promises-aplus"
+  ],
+  "React": [
+    "react"
+  ],
+  "request": [
+    "request"
+  ],
+  "rxjs": [
+    "rxjs"
+  ],
+  "selenium": [
+    "selenium"
+  ],
+  "shallow": [
+    "shallow"
+  ],
+  "signals": [
+    "signals"
+  ],
+  "sinon": [
+    "sinon"
+  ],
+  "sort": [
+    "sort"
+  ],
+  "spy": [
+    "spy"
+  ],
+  "string": [
+    "string"
+  ],
+  "subset": [
+    "subset"
+  ],
+  "superagent": [
+    "superagent"
+  ],
+  "supertest": [
+    "supertest"
+  ],
+  "time": [
+    "time"
+  ],
+  "tolerance": [
+    "tolerance"
+  ],
+  "v8": [
+    "v8"
+  ],
+  "vendor": [
+    "vendor"
+  ],
+  "webdriver": [
+    "webdriver"
+  ],
+  "zombie": [
+    "zombie"
+  ]
+}
